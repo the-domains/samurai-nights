@@ -1,16 +1,16 @@
-layout_spectrum: 0.9493930311873555
-typography_spectrum: 0.5976502504199743
+layout_spectrum: 0.798450571950525
+typography_spectrum: 0.5590866515412927
 color:
-  brandStrength: 0.7282631390262395
-  lightness: 0.6241642474196851
-  saturation: 0.8189786234870553
-  rhythmicContrast: 0.19588624429889023
+  brandStrength: 0.1797215691767633
+  lightness: 0.33703820314258337
+  saturation: 0.8109150363598019
+  rhythmicContrast: 0.8556604071054608
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: Samurai Nights
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f67f2b7-3a39-4d03-ac34-9c7abe4d2eea.svg
