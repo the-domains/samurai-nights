@@ -1,4 +1,3 @@
-layout_spectrum: 0.798450571950525
 typography_spectrum: 0.5590866515412927
 color:
   brandStrength: 0.1797215691767633
@@ -11,6 +10,11 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-name: Samurai Nights
+layout_spectrum: 0.798450571950525
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f67f2b7-3a39-4d03-ac34-9c7abe4d2eea.svg
+name: Samurai Nights
+navigation:
+  - id: 0e4d35be-3004-4792-8bb6-00582cf2be89
+    name: Oct 2015 - DJ Fresh
+    type: content
